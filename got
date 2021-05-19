@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="./css/style.css">
+    <script src="./js/script.js" defer></script>
+    <title>Game Of Thrones </title>
+</head>
+<body>
+    <header>
+        <h1>Map Game Of Thrones</h1>
+    </header>
+    <aside></aside>
+    <main>
+        
+    </main>
+    <footer></footer>
+</body>
+</html>
